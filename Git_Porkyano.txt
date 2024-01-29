@@ -1,0 +1,16 @@
+Primero hacemos la carpeta donde vamos a hacer todo, despues copiamos la direccion que tiene.
+
+Ahora usamos el cmd para meternos a la carpeta con el comando cd "Direccion de la carpeta".
+
+Escribimos en el cmd git init (Esto inicializa el git)
+Ahora usamos el comando git clone y el url del repositorio y para corroborar que fue exitoso escribimos git status.
+
+Ahora creamos el archivo.
+
+Para subirlo vamos a escribir: git "Nombre del archivo" (Por ejemlo: PorkyMenso.txt), esto prepara el archivo para subirlo.
+
+Ahora escribimos git commit "Alguna etiqueta de lo que realizamos".
+
+Ahora escribimos git push "Origen de la rama" (Normalmente es main)
+
+Y listo se supone que ya se guardo.
